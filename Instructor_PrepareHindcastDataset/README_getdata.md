@@ -11,3 +11,9 @@
 
     • Edit Metadata with ncks or ncatted (set "year" to 1234 or some other harmless/obvious spoof year)
       • ncap2 or ncatted or ncks are tools for specific metadata modifications. Refer to the documentation of these tools for detailed usage instructions.
+
+
+
+#  For research investments 
+
+### Download another year (no need to spoof the YYYY metadata) for ambitious students to try out business strategies on 
