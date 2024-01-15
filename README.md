@@ -6,7 +6,7 @@ Instructor_PrepareHindcastDataset has tools for setting up a corpus of real weat
 
 These data (verification, and forecasts at each lead time) are unveiled, day for day, as the game proceeds. 
 
-Jupyter notebooks contain the codes to score the game, each session. 
+Each class session, codes in Jupyter notebooks score the verification payout, and strategize the preparations for the next session and the rest of the semester. 
 
 1. Weather verification grids are geographically sampled at a portfolio of 'business sites', and spatially downscaled (random noise is added to model grid point data). 
 
