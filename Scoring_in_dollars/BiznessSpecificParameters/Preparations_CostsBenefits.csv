@@ -1,0 +1,12 @@
+ Cost-benefit table for T2m and precip deciles, e.g. -10 damage on the cold-dry tail but benefit on the warm-wet side unless too much
+
+-10, 0, 0, 0, 0, 0, 0, 0, 0, 0
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+0, 0, 0, 0, 0, 0, 0, 2, 0, 0
+0, 0, 0, 0, 0, 0, 0, 2, 1, 0
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+0, 0, 0, 0, 0, 0, 0, 0, 0, -10
