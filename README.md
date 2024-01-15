@@ -2,7 +2,7 @@
 
 Weather-sensitive business game-course materials. 
 
-PrepareHindcastDataset has tools for setting up a corpus of real weather-model "forecast data" from the spoofed year "1234" (honor system not to peek/cheat at the real-world year these came from). 
+Instructor_PrepareHindcastDataset has tools for setting up a corpus of real weather-model "forecast data" from the spoofed year "1234" (honor system not to peek/cheat at the real-world year these came from). 
 
 These data are unveiled, day by day, as the game proceeds. 
 
