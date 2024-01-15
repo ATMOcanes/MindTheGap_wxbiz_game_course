@@ -4,7 +4,7 @@ Weather-sensitive business game-course materials.
 
 Instructor_PrepareHindcastDataset has tools for setting up a corpus of real weather-model "forecast data" from the spoofed year "1234" (honor system not to peek/cheat at the real-world year these came from). 
 
-These data are unveiled, day by day, as the game proceeds. 
+These data (verification, and forecasts at each lead time) are unveiled, day for day, as the game proceeds. 
 
 Jupyter notebooks contain the codes to score the game, each session. 
 
