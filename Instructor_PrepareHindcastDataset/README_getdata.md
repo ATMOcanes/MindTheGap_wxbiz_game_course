@@ -1,5 +1,7 @@
 # Getting a semester of hindcast data, and spoofing the year   
 
+0. Understand the [5-member GEFS hindcast archive](https://noaa-gefs-retrospective.s3.amazonaws.com/Description_of_reforecast_data.pdf) you are drawing from. 
+
 1. Download the .grib2 files from a particular year, for instance 2006 [here](https://noaa-gefs-retrospective.s3.amazonaws.com/index.html#GEFSv12/reforecast/2006/)
 
 2. ChatGPT says:
